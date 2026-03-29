@@ -32,18 +32,7 @@ Welcome to my GitHub! I am a final-year MCA student passionate about building st
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
 
----
 
-### 📊 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
-</div>
-
----
 
 ### 🔗 Let's Connect
 
