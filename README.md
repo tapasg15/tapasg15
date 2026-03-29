@@ -1,11 +1,9 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Tapas+Gorai+👋;MCA+Computer+Science+Student;Java+Developer+%7C+Problem+Solver;Building+Smart+Systems!" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I+am+Tapas+Gorai;MCA+Computer+Science+Student;Java+Developer;Problem+Solver;Building+Smart+Systems" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=tapasg15&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ---
@@ -55,10 +53,9 @@ Welcome to my digital workspace! I am a final-year **Master of Computer Applicat
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tapasg15&layout=compact&theme=radical&show_icons=true&v=1" alt="Top Languages" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=tapasg15&show_icons=true&theme=radical&v=1" alt="GitHub Stats" />
       </td>
     </tr>
   </table>
